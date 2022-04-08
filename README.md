@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there I'm Nick! 👋
 
 
-**About Me**
-I'm a passionate developer who loves solving problems and mastering new technologies. Most importantly, I enjoy bringing my talents, knowledge, and energy to a team setting where we can focus on building cool stuff and helping each other succeed.
+### About Me
+
+ I'm a passionate developer who loves solving problems and mastering new technologies. Most importantly, I enjoy bringing my talents, knowledge, and energy to a team setting where we can focus on building cool stuff and helping each other succeed.
 
 
 - 🔭 I’m currently working on various projects with JavaScript using React framework.
