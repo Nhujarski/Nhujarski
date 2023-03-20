@@ -2,7 +2,7 @@
 
 ### I'm looking for my next role!
 
-## About Me
+# About Me
 
  Results-driven software engineer with 2 years of experience in developing, testing and implementing web applications using Javascript, Node, and React. Proven ability to work effectively in fast-paced environments, adapt to new technologies, and deliver high-quality software solutions.
 
