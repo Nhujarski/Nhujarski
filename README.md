@@ -4,12 +4,14 @@
 
 # About Me
 
-I'm a results-driven software engineer with 2 years of experience in developing, testing and implementing web applications using JavaScript, Node, and React. Strong background in manufacturing supervision with 9 years of experience in leading teams with 98% on time project completion. , streamlining operations and achieving production goals.
+Accomplished Software Engineer in fullstack and front-end development. Strong background in leadership and manufacturing spanning over 9 years. Specializes in creating efficient, user-centric applications using JavaScript, React, and GraphQL. Proven track record of enhancing processing times and customer satisfaction through innovative solutions. Actively seeks opportunities for growth and development within the software engineering field.
 
-Fun facts: I have a 1.5 year old Shiba Inu pup named Rizza after Rza from the Wu-Tang clan. I love tacos, gaming(video games or table top), hiking and being outdoors(especially at the beach).
+### Fun facts: 
+I have a 1.5 year old Shiba Inu pup named Rizza after Rza from the Wu-Tang clan. I love tacos, gaming(video games or table top), hiking and being outdoors(especially at the beach).
 
 
-Skills: React,Redux, Node/Express, GraphQL, Git, SQL/SQLite, JavaScript (ES8+),TypeScript, REST, HTML5, CSS3, LessCSS, StorybookJS
+### Skills: 
+React,Redux, Node/Express, GraphQL, Git, SQL/SQLite, JavaScript (ES8+),TypeScript, REST, HTML5, CSS3, LessCSS, StorybookJS
 
 
 - 🔭 I’m currently working on various projects with JavaScript/TypeScript/React. 
