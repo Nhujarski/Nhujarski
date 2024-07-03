@@ -10,7 +10,7 @@ I have a 2.5 year old Shiba Inu pup named Rizza after Rza from the Wu-Tang clan.
 
 
 ## Skills: 
-React,Redux, GraphQL, Git, SQL/SQLite, JavaScript (ES8+), Node/Express,TypeScript, REST, HTML5, CSS3, SASS,LessCSS, StorybookJS
+React, Redux, GraphQL, Git, SQL/SQLite, JavaScript (ES8+), Node/Express,TypeScript, REST, HTML5, CSS3, SASS,LessCSS, StorybookJS
 
 <p align="center">
   <a href="https://skillicons.dev">
