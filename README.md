@@ -3,7 +3,8 @@
 
 ## About Me:
 
-Accomplished Software Engineer in fullstack and front-end development. Strong background in leadership and manufacturing spanning over 9 years. Specializes in creating efficient, user-centric applications using JavaScript, React, and GraphQL. Proven track record of enhancing processing times and customer satisfaction through innovative solutions. Actively seeks opportunities for growth and development within the software engineering field.
+Dynamic Software Engineer with over 2 years of experience, specializing in Typescript, React, and GraphQL
+to develop engaging, user-centric applications. Proven track record in leveraging modern web technologies to enhance user experience and efficiency.
 
 ## Fun facts: 
 I have a 3 year old Shiba Inu pup named Rizza after Rza from the Wu-Tang clan. I love tacos, gaming(video games or table top), hiking and being outdoors(especially at the beach).
